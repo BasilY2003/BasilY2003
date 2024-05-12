@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **Developing a full stack applications**
 
+- 🎓 Pursuing a Bachelor's degree **in Software Engineering at Bethlehem University**
+
 - 📫 How to reach me **Basel.2003.11@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
